@@ -1,7 +1,7 @@
 ### Hi, I'm Gustavo ✌😎
 
 - 💻 Currently working on college projects
-- 📚 Studying C++ and Java
+- 📚 Studying C/C++ and Java
 
 ![scagl1 stats](https://github-readme-stats.vercel.app/api?username=scagl1&show_icons=true&theme=merko)
 
