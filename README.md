@@ -1,6 +1,6 @@
 ### Hi, I'm Gustavo ✌😎
 
-- <img height="18em" src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-brazil_1f1e7-1f1f7.png](https://em-content.zobj.net/thumbs/160/apple/354/flag-brazil_1f1e7-1f1f7.png)"/> Brazilian
+- <img height="18em" src="https://em-content.zobj.net/thumbs/160/apple/354/flag-brazil_1f1e7-1f1f7.png"/> Brazilian
 - 💾 Computer Science student at PUC-SP
 - 💻 Currently working on college projects
 - 📚 Studying C and Java
